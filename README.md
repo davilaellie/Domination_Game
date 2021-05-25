@@ -28,7 +28,7 @@ If a player has playing pieces in reserve they can make a reserve move instead o
 End of the Game
 The first player who captures six pieces of the other player wins the game.
 
-This YouTube link explains how to play the game
+This YouTube link explains how to play the game: https://www.youtube.com/watch?v=PEUIMbFIU7A&ab_channel=Bower%27sGameCorner
 
 Tip: Probably the easiest way of representing the board is to use a list of lists. You're not required to print the board.
 
